@@ -1,0 +1,6 @@
+Apr 28, 2019 5:18:05 PM LoggerTest main
+INFO: message 1
+Apr 28, 2019 5:18:05 PM LoggerTest main
+SEVERE: message 2
+Apr 28, 2019 5:18:05 PM LoggerTest2 thing
+WARNING: something to log
